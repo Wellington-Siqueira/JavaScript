@@ -1,5 +1,6 @@
 # Função de somatório usando JavaScript
-Alguns projetos em JavaScript
+O código JS está em script.js, e ele realiza a função de receber um valor positivo, e retorna a soma dos valores inferiores ao recebido que sejam divisiveis por 3 ou 5.
+Se o valor passado for negativo, o retorno será o valor 0.
 
 # Como utilizar
 * Clone ou baixe os arquivos da pasta **somatorio**
